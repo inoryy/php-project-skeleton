@@ -38,8 +38,7 @@ Alternatively, you can manually add the dependency to `composer.json` file...
 {
     "require": {
         "project_full_name": "stable_version"
-    },
-    "minimum-stability": "dev"
+    }
 }
 ```
 
