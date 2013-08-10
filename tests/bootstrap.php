@@ -12,4 +12,4 @@ EOT
     );
 }
 
-$loader->add('Vendor\Project\Tests', __DIR__);
+$loader->add('ProjectName\Tests', __DIR__);
