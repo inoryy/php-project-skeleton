@@ -1,0 +1,23 @@
+{
+    "name"        : "",
+    "description" : "",
+    "homepage"    : "",
+    "license"     : "MIT",
+    "type"        : "library",
+    "keywords"    : [],
+    "authors": [
+        {
+            "name"     : "",
+            "homepage" : ""
+        }
+    ],
+    "require": {
+        "php": ">=5.3.8"
+    },
+    "require-dev": {
+
+    },
+    "autoload": {
+        "psr-0": { "": "src/" }
+    }
+}
