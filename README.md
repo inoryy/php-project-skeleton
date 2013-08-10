@@ -1,7 +1,7 @@
 project_name
 =========
 
-project_name is a PHP library for ... that ... by ...
+`project_name` is a PHP library for ... that ... by ...
 
 ## Usage
 
@@ -54,7 +54,7 @@ $ php composer.phar install
 
 ## Contributing
 
-See [CONTRIBUTING.md](CONTRIBUTING.md] file.
+See [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
 ## Running the Tests
 
